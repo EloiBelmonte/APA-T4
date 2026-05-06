@@ -186,6 +186,17 @@ a ejecutar con la biblioteca `doctest`:
 
 <br>
 
+![Ejecución de tests](./test1_3.png)
+
+<br>
+
+![Ejecución de tests](./test2_3.png)
+
+<br>
+
+![Ejecución de tests](./test3_3.png)
+
+<br>
 
 
 #### Código desarrollado
